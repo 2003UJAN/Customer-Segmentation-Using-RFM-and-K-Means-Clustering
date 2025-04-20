@@ -1,6 +1,6 @@
 # 🎯 Adidas Customer Segmentation using RFM and K-Means
 
-Segment Adidas customers based on Recency, Frequency, and Monetary value (RFM) to enhance targeted marketing.
+Segment Adidas customers based on Recency, Frequency, and Monetary value (RFM) to enhance targeted market
 
 ## 🚀 Features
 - RFM Calculation
